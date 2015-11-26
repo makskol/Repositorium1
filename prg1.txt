@@ -1,0 +1,5 @@
+main (){
+int sum, i, a;
+sum = i + a;
+cout<<sum;{suma}
+}
