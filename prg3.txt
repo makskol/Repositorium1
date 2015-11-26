@@ -1,0 +1,15 @@
+#include<iostream> 
+#include<cstdlib>
+ 
+int main()
+{
+ 
+//bez u¿ycia dyrektywy using namespace std musimy 
+//do ka¿dej definicji z biblioteki 
+//iostream dodaæ przedrostek std::
+ 
+std::cout<<"Ala ma kota"<<std::endl;
+ 
+system("pause");
+return 0;
+}
