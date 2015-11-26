@@ -1,0 +1,19 @@
+#include <cstdlib>
+#include <iostream>
+//dodanie biblioteki cmath, w której znajduje siê 
+//definicja funkcji pierwiastkuj¹cej sqrt
+#include <cmath>
+ 
+using namespace std;
+ 
+int main()
+{
+ 
+//u¿ycie funkcji sqrt wyznaczaj¹cej 
+//pierwiastek z liczby 2 
+cout<<sqrt(2)<<endl;
+ 
+system("pause");  
+ 
+return 0;
+}
