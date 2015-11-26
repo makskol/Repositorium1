@@ -1,0 +1,7 @@
+#include <cstdio>
+
+int main()
+{
+    printf("Jestem Twoim drugim piatym");
+    return 0;
+}
